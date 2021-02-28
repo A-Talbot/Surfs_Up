@@ -8,6 +8,7 @@ __pycache__/
 
 # Notebooks
 practice_app.py
+.DS_Store
 
 # Distribution / packaging
 .Python
