@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Notebooks
-app.py
+practice_app.py
 
 # Distribution / packaging
 .Python
