@@ -1,4 +1,4 @@
-# Surfs_Up
+# Surf n' Shake - Weather Analysis
 
 *Prepared for W. Avy - 2021 FEB 28*
 
